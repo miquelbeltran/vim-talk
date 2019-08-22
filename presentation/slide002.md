@@ -8,8 +8,8 @@
 
         • Avoid mouse usage
         • Work on the train
-        • Android Studio / IntelliJ IDEA
         • Write commits
+        • Android Studio / IntelliJ IDEA
         • Macros
         • Cool plugins
         • Feel like a hacker
