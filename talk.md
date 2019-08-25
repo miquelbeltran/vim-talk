@@ -36,7 +36,7 @@ Vi and Vim
 
 vi is the granma of Vim.
 
-Vim supporrs syntax highlight,
+Vim supports syntax highlight,
 plugins, scripting, etc.
 
 

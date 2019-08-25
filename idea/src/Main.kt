@@ -82,13 +82,13 @@
 // and replace the `isValid` calls with this call:
 // performValidation(token)
 
-fun login(user: String, password: String) {
-    if (isValid(user) && isValid(password)) {
+class Token
+
+fun login(token: Token) {
+    if (performValidation(token)) {
         print("GOT IN")
     }
 }
-
-class Token
 fun isValid(s: String) = true
 fun performValidation(t: Token) = true
 
@@ -160,7 +160,7 @@ fun performValidation(t: Token) = true
 
 // :%s/replace/bytext/g
 
-// replace `foo` by `bar`
+// replace `bar` by `bar`
 
 // :sort (in visual mode)
 

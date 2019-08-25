@@ -1,0 +1,14 @@
+set surround              " visual select and then S
+set multiple-cursors      " <A + c> , <A + x>, <A + a> 
+set incsearch             " But do highlight as you type your search.
+set ignorecase            " Make searches case-insensitive.
+set clipboard=unnamed     " yank and paste from system clipboard
+"set scrolloff=999         " the cursor is centered vertically if posible
+
+noremap <Up> <Nop>
+noremap <Down> <Nop>
+noremap <Left> <Nop>
+noremap <Right> <Nop>
+
+
+set clipboard+=ideaput
