@@ -160,7 +160,7 @@ fun performValidation(t: Token) = true
 
 // :%s/replace/bytext/g
 
-// replace `bar` by `bar`
+// replace `foo` by `bar`
 
 // :sort (in visual mode)
 
