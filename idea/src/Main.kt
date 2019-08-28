@@ -84,8 +84,8 @@
 
 class Token
 
-fun login(token: Token) {
-    if (performValidation(token)) {
+fun login(user: String, password: String) {
+    if (isValid(user) && isValid(password)) {
         print("GOT IN")
     }
 }
