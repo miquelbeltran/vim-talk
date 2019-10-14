@@ -1,11 +1,9 @@
-          ________  _____    _   ____ _______
-         /_  __/ / / /   |  / | / / //_/ ___/
-          / / / /_/ / /| | /  |/ / ,<  \__ \
-         / / / __  / ___ |/ /|  / /| |___/ /
-        /_/ /_/ /_/_/  |_/_/ |_/_/ |_/____/
+        SEARCH
 
-        • Miguel Beltran
-        • @MiBLT
+         `/` to start searching
+         `*` to search under cursor
+         `n` to repeat search
+         `N` to repeat search backwards
 
 
 

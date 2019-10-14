@@ -1,8 +1,13 @@
-        Resources to learn
+        VISUAL MODE
 
-        • vimtutor
-        • vim-adventures.com
-        • miquelbeltran/vim-talk
+        select this code:
+
+        fun start() {
+            print("let's go")
+        }
+
+        `V` at the first line, then `j` and `j`
+        or `vip` -> visually select in paragraph
 
 
 

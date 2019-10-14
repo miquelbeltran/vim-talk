@@ -1,8 +1,10 @@
-        There's always a better way
+        More basic commands:
 
-        • vimgolf
-        • improvement
-        • DON'T STRESS
+         `x` --> delete a char
+         `d` --> delete command
+           `dd` --> delete the line
+           `D`  --> delete up the end of the line
+         `u` --> undo
 
 
 

@@ -1,8 +1,14 @@
-        Your .vimrc
+        EDITING
 
-        • Put in source control!
-        • Don't overdo
-        • Share it online
+        Try to go to this comment and write something:
+
+        I can move to the end of the line with `$`
+        then append with `a`
+
+        I can 'append' at the end of the line with `A`
+        When done, hit ESC
+
+        Many ways of doing the same thing!
 
 
 

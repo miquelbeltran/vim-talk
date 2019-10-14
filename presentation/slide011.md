@@ -1,6 +1,14 @@
-        Make VIM your git editor
+        Let's do some VIM!
 
-        git config --global core.editor "vim"
+        MOVEMENTS
+
+        First, move around using `hjkl`
+
+          k
+        h   l
+          j
+
+        Then, jump through words using `w` and `b`
 
 
 

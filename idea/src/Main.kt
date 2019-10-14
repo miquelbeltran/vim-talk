@@ -84,8 +84,8 @@
 
 class Token
 
-fun login(user: String, password: String) {
-    if (isValid(user) && isValid(password)) {
+fun login(token: Token) {
+    if (performValidation(token)) {
         print("GOT IN")
     }
 }
@@ -158,7 +158,7 @@ fun performValidation(t: Token) = true
 
 // And more advanced stuff!
 
-// :%s/replace/bytext/g
+// :s/foo/bar/ <-- substitute command
 
 // replace `foo` by `bar`
 
