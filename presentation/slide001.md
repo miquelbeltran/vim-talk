@@ -6,7 +6,7 @@
 
         Mouseless
         Development
-        with IdeaVim
+        in vi-mode
 
         • Miguel Beltran
         • Freelancer
