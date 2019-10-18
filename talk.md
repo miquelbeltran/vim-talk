@@ -16,7 +16,7 @@ in vi-mode
 - Avoid mouse usage
 - Work on the train
 - Write commits
-- Android Studio / IntelliJ IDEA
+- WebStorm / IntelliJ IDEA
 - Macros
 - Cool plugins
 - Feel like a hacker
