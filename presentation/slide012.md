@@ -1,6 +1,6 @@
         EDITING
 
-        Try to go to this comment and write something:
+        Try to go to the end and write something:
 
         I can move to the end of the line with `$`
         then append with `a`
